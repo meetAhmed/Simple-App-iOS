@@ -1,0 +1,6 @@
+framework module IonicPortals {
+  umbrella header "IonicPortals-umbrella.h"
+
+  export *
+  module * { export * }
+}

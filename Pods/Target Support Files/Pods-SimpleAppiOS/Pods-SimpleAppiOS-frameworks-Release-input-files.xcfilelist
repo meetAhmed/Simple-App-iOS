@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-SimpleAppiOS/Pods-SimpleAppiOS-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Capacitor/Capacitor.framework
+${BUILT_PRODUCTS_DIR}/CapacitorCordova/Cordova.framework
+${BUILT_PRODUCTS_DIR}/IonicPortals/IonicPortals.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/IonicLiveUpdates/IonicLiveUpdates.framework/IonicLiveUpdates

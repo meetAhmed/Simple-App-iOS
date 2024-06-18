@@ -1,0 +1,6 @@
+framework module Pods_SimpleAppiOS {
+  umbrella header "Pods-SimpleAppiOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
